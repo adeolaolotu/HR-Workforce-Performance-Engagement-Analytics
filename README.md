@@ -35,16 +35,39 @@ Built **3 professional interactive dashboards** as required:
 - KPI Cards (Total Employees, Avg Age, Male/Female Count, Avg Tenure)
 - Charts: Employee Count by Department, Gender Distribution, Age Group Distribution
 - Added Department Slicer
-- ![Overview Dashboard](https://github.com/adeolaolotu/HR-Workforce-Performance-Engagement-Analytics/blob/d6500793b06911ffc288bcdf55fa695450016484/Workforce%20Overview.png)
+  ![Overview Dashboard](https://github.com/adeolaolotu/HR-Workforce-Performance-Engagement-Analytics/blob/d6500793b06911ffc288bcdf55fa695450016484/Workforce%20Overview.png)
 
 **Dashboard 2: Employee Performance & Engagement**
 - KPI Cards (Avg Engagement, Satisfaction, Work-Life Balance, Employee Rating, High Performer Count)
 - Charts: Performance Score by Department, Engagement Level Distribution, Satisfaction by Division, Top Performing Departments
 - Added Business Unit Slicer
-- ![Employee Performance and Engagement Dashboard](https://github.com/adeolaolotu/HR-Workforce-Performance-Engagement-Analytics/blob/d6500793b06911ffc288bcdf55fa695450016484/Empployee%20Performance%20and%20Engagement.png)
+  ![Employee Performance and Engagement Dashboard](https://github.com/adeolaolotu/HR-Workforce-Performance-Engagement-Analytics/blob/d6500793b06911ffc288bcdf55fa695450016484/Empployee%20Performance%20and%20Engagement.png)
 
 **Dashboard 3: Training & HR Investment**
 - KPI Cards (Total Training Cost, Completion Rate, etc.)
 - Charts: Training Attendance, Training Cost by Department, Training Outcome Analysis
 - Added Training Program Slicer
-- ![Training and HR investment Dashboard](https://github.com/adeolaolotu/HR-Workforce-Performance-Engagement-Analytics/blob/d6500793b06911ffc288bcdf55fa695450016484/Training%20and%20Investment.png)
+  ![Training and HR investment Dashboard](https://github.com/adeolaolotu/HR-Workforce-Performance-Engagement-Analytics/blob/d6500793b06911ffc288bcdf55fa695450016484/Training%20and%20Investment.png)
+
+  ## 5. Insights
+- The organization currently has a workforce of 2,845 employees accross 6 departments and 10 business units.
+- The workforce is slightly female dominated, with females making up 55.82% and males 44.18%
+- The average employee age is 50 years old and has spent approximately 4.77 years in the company.
+- Age distribution analysis reveals that over 66% of the workforce is middle-aged or older. This highlights a significant lack of young talents and potential future succession risk.
+- Only 346 employees (12.2%) are classified as high performers. The majority of workforce falls into Average or Low performers caterories
+- Production dominates the workforce  (1,910 employees) and contributes the highest number of high performers
+- Software engineering shows notable weak performance raising concerns about critical functions
+- The company spent $1.59 million on training yet the training completion rate is critically low at 25.91%. A large portion of employees either fail or do not complete their training programs.
+- Internal and external trainings achieved similar results, implying that training effectiveness may not depend on delivery method.
+
+## 6. Recommendation
+- Redesign training initiatives with better accountability and follow-up, aim to raise completion rates above 70%
+- Implement structured improvent plans for underperforming units especially  Software Engineering
+- Implement succession planning; Increase the proportion of young adults and create knowledge transfer programs between senior and junior employees
+- Introduce recognition programs for high performing employess and focus on improving career growth opportunities
+
+## 7. References
+
+
+
+
