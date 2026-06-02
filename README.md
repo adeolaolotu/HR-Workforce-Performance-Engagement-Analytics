@@ -24,4 +24,4 @@ Interactive Excel dashboards analyzing a 2,845-employee HR dataset focusing on w
 - Conducted in-depth analysis of workforce demographics, department & business unit distribution, and age composition
 - Evaluated employee performance levels, engagement scores, satisfaction levels, and work-life balance across departments
 - Analyzed training program effectiveness, including attendance, costs, completion rates, and outcomes
-- [Pivot Table 1](
+- (Pivot Table 1)[Overview Pivot Table.png]
