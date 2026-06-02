@@ -3,7 +3,7 @@ Interactive Excel dashboards analyzing a 2,845-employee HR dataset focusing on w
 
 ## Steps I took in this project
 
-### Data Understanding and loading
+### 1. Data Understanding and loading
 - Loaded the raw CSV dataset (HR ANALYTICS DATASET) into Excel
 - Explored the structure, columns, and data quality
 
@@ -18,3 +18,9 @@ Interactive Excel dashboards analyzing a 2,845-employee HR dataset focusing on w
   - **Performance Category** (High, Average, Low)
   - **Satisfaction Level** (Satisfied, Neutral, Unsatisfied)
   - **Engagement Level**
+
+### 3. Exploratory Data Analysis (EDA)
+- Built multiple **Pivot Tables** and Pivot Charts as the core engine for dynamic data analysis and visualization
+- Conducted in-depth analysis of workforce demographics, department & business unit distribution, and age composition
+- Evaluated employee performance levels, engagement scores, satisfaction levels, and work-life balance across departments
+- Analyzed training program effectiveness, including attendance, costs, completion rates, and outcomes
