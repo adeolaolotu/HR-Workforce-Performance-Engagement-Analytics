@@ -25,3 +25,22 @@ Interactive Excel dashboards analyzing a 2,845-employee HR dataset focusing on w
 - Evaluated employee performance levels, engagement scores, satisfaction levels, and work-life balance across departments
 - Analyzed training program effectiveness, including attendance, costs, completion rates, and outcomes
 - ![image alt]([Overview Pivot Table.png](https://github.com/adeolaolotu/HR-Workforce-Performance-Engagement-Analytics/blob/5e5fe8905f15a13f83fd5b86e071da02f9990c2c/Overview%20Pivot%20Table.png))
+
+### 4. Dashboard Development
+Built **3 professional interactive dashboards** as required:
+
+**Dashboard 1: Workforce Overview**
+- KPI Cards (Total Employees, Avg Age, Male/Female Count, Avg Tenure)
+- Charts: Employee Count by Department, Gender Distribution, Age Group Distribution
+- Added Department Slicer
+- 
+
+**Dashboard 2: Employee Performance & Engagement**
+- KPI Cards (Avg Engagement, Satisfaction, Work-Life Balance, Employee Rating, High Performer Count)
+- Charts: Performance Score by Department, Engagement Level Distribution, Satisfaction by Division, Top Performing Departments
+- Added Business Unit Slicer
+
+**Dashboard 3: Training & HR Investment**
+- KPI Cards (Total Training Cost, Completion Rate, etc.)
+- Charts: Training Attendance, Training Cost by Department, Training Outcome Analysis
+- Added Training Program Slicer
