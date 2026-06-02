@@ -24,7 +24,9 @@ Interactive Excel dashboards analyzing a 2,845-employee HR dataset focusing on w
 - Conducted in-depth analysis of workforce demographics, department & business unit distribution, and age composition
 - Evaluated employee performance levels, engagement scores, satisfaction levels, and work-life balance across departments
 - Analyzed training program effectiveness, including attendance, costs, completion rates, and outcomes
-- ![image alt]([Overview Pivot Table.png](https://github.com/adeolaolotu/HR-Workforce-Performance-Engagement-Analytics/blob/5e5fe8905f15a13f83fd5b86e071da02f9990c2c/Overview%20Pivot%20Table.png))
+- ![Overview Pivot Table]([Overview Pivot Table.png](https://github.com/adeolaolotu/HR-Workforce-Performance-Engagement-Analytics/blob/5e5fe8905f15a13f83fd5b86e071da02f9990c2c/Overview%20Pivot%20Table.png))
+- ![Performance Pivot Table](https://github.com/adeolaolotu/HR-Workforce-Performance-Engagement-Analytics/blob/2a8b0261a25bc40ff8e9492df0b9de5c2333d301/Training%20Pivot%20Table.png)
+- ![Training Pivot Table](https://github.com/adeolaolotu/HR-Workforce-Performance-Engagement-Analytics/blob/2a8b0261a25bc40ff8e9492df0b9de5c2333d301/Training%20Pivot%20Table.png)
 
 ### 4. Dashboard Development
 Built **3 professional interactive dashboards** as required:
