@@ -1,6 +1,34 @@
 # HR-Workforce-Performance-Engagement-Analytics
-Interactive Excel dashboards analyzing a 2,845-employee HR dataset focusing on workforce performance, engagement, satisfaction, and training effectiveness.
+## 📋 Business Scenario
 
+A multinational company is experiencing challenges in monitoring **employee performance**, **workforce engagement**, **employee satisfaction**, and **training effectiveness** across departments. The HR management team lacks clear visibility into key people metrics, making it difficult to make data-driven decisions that improve workforce productivity, employee development, and overall organizational performance.
+
+As part of the **30 Days Data Analytics Challenge**, I analyzed a real-world HR dataset containing **2,845 employee records** to deliver meaningful, actionable insights through professional interactive Excel dashboards.
+
+## 🎯 Business Questions Answered
+
+This project was designed to answer the following key business questions:
+
+### Workforce Composition
+- What is the current structure and demographics of our workforce?
+- Do we have a sustainable talent pipeline for the future?
+
+### Performance Management
+- How many employees are performing at a high level?
+- Which departments are excelling and which are struggling?
+
+### Employee Engagement & Satisfaction
+- What are the current levels of employee engagement and satisfaction?
+- Are there significant variations across departments?
+
+### Training & Development Effectiveness
+- How effective is the company’s substantial investment in training?
+- What is the actual return on the **$1.59 Million** training budget?
+
+### Strategic HR Insights
+- What are the major risks and opportunities in the current workforce?
+- What practical recommendations can drive better HR outcomes?
+- 
 ## Steps I took in this project
 
 ### 1. Data Understanding and loading
