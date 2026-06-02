@@ -28,7 +28,7 @@ This project was designed to answer the following key business questions:
 ### Strategic HR Insights
 - What are the major risks and opportunities in the current workforce?
 - What practical recommendations can drive better HR outcomes?
-- 
+  
 ## Steps I took in this project
 
 ### 1. Data Understanding and loading
