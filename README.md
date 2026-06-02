@@ -35,14 +35,16 @@ Built **3 professional interactive dashboards** as required:
 - KPI Cards (Total Employees, Avg Age, Male/Female Count, Avg Tenure)
 - Charts: Employee Count by Department, Gender Distribution, Age Group Distribution
 - Added Department Slicer
-- 
+- ![Overview Dashboard](https://github.com/adeolaolotu/HR-Workforce-Performance-Engagement-Analytics/blob/d6500793b06911ffc288bcdf55fa695450016484/Workforce%20Overview.png)
 
 **Dashboard 2: Employee Performance & Engagement**
 - KPI Cards (Avg Engagement, Satisfaction, Work-Life Balance, Employee Rating, High Performer Count)
 - Charts: Performance Score by Department, Engagement Level Distribution, Satisfaction by Division, Top Performing Departments
 - Added Business Unit Slicer
+- ![Employee Performance and Engagement Dashboard](https://github.com/adeolaolotu/HR-Workforce-Performance-Engagement-Analytics/blob/d6500793b06911ffc288bcdf55fa695450016484/Empployee%20Performance%20and%20Engagement.png)
 
 **Dashboard 3: Training & HR Investment**
 - KPI Cards (Total Training Cost, Completion Rate, etc.)
 - Charts: Training Attendance, Training Cost by Department, Training Outcome Analysis
 - Added Training Program Slicer
+- ![Training and HR investment Dashboard](https://github.com/adeolaolotu/HR-Workforce-Performance-Engagement-Analytics/blob/d6500793b06911ffc288bcdf55fa695450016484/Training%20and%20Investment.png)
